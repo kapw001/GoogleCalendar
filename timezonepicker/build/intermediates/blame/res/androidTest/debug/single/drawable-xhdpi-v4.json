@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/yasar/CalendarGoogle2016-master/timezonepicker/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/ic_clear_search_holo_light.png",
+        "source": "/home/yasar/CalendarGoogle2016-master/timezonepicker/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/ic_clear_search_holo_light.png"
+    },
+    {
+        "merged": "/home/yasar/CalendarGoogle2016-master/timezonepicker/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/ic_search_holo_light.png",
+        "source": "/home/yasar/CalendarGoogle2016-master/timezonepicker/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/ic_search_holo_light.png"
+    }
+]

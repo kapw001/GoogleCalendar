@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/yasar/CalendarGoogle2016-master/timezonepicker/build/intermediates/res/merged/androidTest/debug/layout/empty_time_zone_item.xml",
+        "source": "/home/yasar/CalendarGoogle2016-master/timezonepicker/build/intermediates/bundles/debug/res/layout/empty_time_zone_item.xml"
+    },
+    {
+        "merged": "/home/yasar/CalendarGoogle2016-master/timezonepicker/build/intermediates/res/merged/androidTest/debug/layout/time_zone_filter_item.xml",
+        "source": "/home/yasar/CalendarGoogle2016-master/timezonepicker/build/intermediates/bundles/debug/res/layout/time_zone_filter_item.xml"
+    },
+    {
+        "merged": "/home/yasar/CalendarGoogle2016-master/timezonepicker/build/intermediates/res/merged/androidTest/debug/layout/time_zone_item.xml",
+        "source": "/home/yasar/CalendarGoogle2016-master/timezonepicker/build/intermediates/bundles/debug/res/layout/time_zone_item.xml"
+    },
+    {
+        "merged": "/home/yasar/CalendarGoogle2016-master/timezonepicker/build/intermediates/res/merged/androidTest/debug/layout/timezonepickerview.xml",
+        "source": "/home/yasar/CalendarGoogle2016-master/timezonepicker/build/intermediates/bundles/debug/res/layout/timezonepickerview.xml"
+    }
+]

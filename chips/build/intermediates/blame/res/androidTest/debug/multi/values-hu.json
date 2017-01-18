@@ -1,0 +1,83 @@
+[
+    {
+        "outputFile": "/home/yasar/CalendarGoogle2016-master/chips/build/intermediates/res/merged/androidTest/debug/values-hu/values-hu.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 88,
+                    "endOffset": 189
+                },
+                "from": {
+                    "file": "/home/yasar/CalendarGoogle2016-master/chips/build/intermediates/bundles/debug/res/values-hu/values-hu.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 105,
+                        "endColumn": 88,
+                        "endOffset": 189
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 194,
+                    "endColumn": 89,
+                    "endOffset": 279
+                },
+                "from": {
+                    "file": "/home/yasar/CalendarGoogle2016-master/chips/build/intermediates/bundles/debug/res/values-hu/values-hu.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 194,
+                        "endColumn": 89,
+                        "endOffset": 279
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 284,
+                    "endColumn": 68,
+                    "endOffset": 348
+                },
+                "from": {
+                    "file": "/home/yasar/CalendarGoogle2016-master/chips/build/intermediates/bundles/debug/res/values-hu/values-hu.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 284,
+                        "endColumn": 68,
+                        "endOffset": 348
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 353,
+                    "endColumn": 101,
+                    "endOffset": 450
+                },
+                "from": {
+                    "file": "/home/yasar/CalendarGoogle2016-master/chips/build/intermediates/bundles/debug/res/values-hu/values-hu.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 353,
+                        "endColumn": 101,
+                        "endOffset": 450
+                    }
+                }
+            }
+        ]
+    }
+]

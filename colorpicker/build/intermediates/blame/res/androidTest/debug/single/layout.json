@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/yasar/CalendarGoogle2016-master/colorpicker/build/intermediates/res/merged/androidTest/debug/layout/color_picker_dialog.xml",
+        "source": "/home/yasar/CalendarGoogle2016-master/colorpicker/build/intermediates/bundles/debug/res/layout/color_picker_dialog.xml"
+    },
+    {
+        "merged": "/home/yasar/CalendarGoogle2016-master/colorpicker/build/intermediates/res/merged/androidTest/debug/layout/color_picker_swatch.xml",
+        "source": "/home/yasar/CalendarGoogle2016-master/colorpicker/build/intermediates/bundles/debug/res/layout/color_picker_swatch.xml"
+    }
+]

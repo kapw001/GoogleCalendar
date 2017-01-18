@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "/home/yasar/CalendarGoogle2016-master/chips/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/chip_checkmark.png",
+        "source": "/home/yasar/CalendarGoogle2016-master/chips/build/intermediates/bundles/debug/res/drawable-hdpi-v4/chip_checkmark.png"
+    },
+    {
+        "merged": "/home/yasar/CalendarGoogle2016-master/chips/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/chip_delete.png",
+        "source": "/home/yasar/CalendarGoogle2016-master/chips/build/intermediates/bundles/debug/res/drawable-hdpi-v4/chip_delete.png"
+    },
+    {
+        "merged": "/home/yasar/CalendarGoogle2016-master/chips/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/chip_background_invalid.9.png",
+        "source": "/home/yasar/CalendarGoogle2016-master/chips/build/intermediates/bundles/debug/res/drawable-hdpi-v4/chip_background_invalid.9.png"
+    },
+    {
+        "merged": "/home/yasar/CalendarGoogle2016-master/chips/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/ic_contact_picture.png",
+        "source": "/home/yasar/CalendarGoogle2016-master/chips/build/intermediates/bundles/debug/res/drawable-hdpi-v4/ic_contact_picture.png"
+    },
+    {
+        "merged": "/home/yasar/CalendarGoogle2016-master/chips/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/chip_background.9.png",
+        "source": "/home/yasar/CalendarGoogle2016-master/chips/build/intermediates/bundles/debug/res/drawable-hdpi-v4/chip_background.9.png"
+    },
+    {
+        "merged": "/home/yasar/CalendarGoogle2016-master/chips/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/bg_separator.9.png",
+        "source": "/home/yasar/CalendarGoogle2016-master/chips/build/intermediates/bundles/debug/res/drawable-hdpi-v4/bg_separator.9.png"
+    },
+    {
+        "merged": "/home/yasar/CalendarGoogle2016-master/chips/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/chip_background_selected.9.png",
+        "source": "/home/yasar/CalendarGoogle2016-master/chips/build/intermediates/bundles/debug/res/drawable-hdpi-v4/chip_background_selected.9.png"
+    }
+]

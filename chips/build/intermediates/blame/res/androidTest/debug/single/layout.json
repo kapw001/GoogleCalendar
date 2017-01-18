@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/yasar/CalendarGoogle2016-master/chips/build/intermediates/res/merged/androidTest/debug/layout/chips_recipient_dropdown_item.xml",
+        "source": "/home/yasar/CalendarGoogle2016-master/chips/build/intermediates/bundles/debug/res/layout/chips_recipient_dropdown_item.xml"
+    },
+    {
+        "merged": "/home/yasar/CalendarGoogle2016-master/chips/build/intermediates/res/merged/androidTest/debug/layout/copy_chip_dialog_layout.xml",
+        "source": "/home/yasar/CalendarGoogle2016-master/chips/build/intermediates/bundles/debug/res/layout/copy_chip_dialog_layout.xml"
+    },
+    {
+        "merged": "/home/yasar/CalendarGoogle2016-master/chips/build/intermediates/res/merged/androidTest/debug/layout/more_item.xml",
+        "source": "/home/yasar/CalendarGoogle2016-master/chips/build/intermediates/bundles/debug/res/layout/more_item.xml"
+    },
+    {
+        "merged": "/home/yasar/CalendarGoogle2016-master/chips/build/intermediates/res/merged/androidTest/debug/layout/chips_alternate_item.xml",
+        "source": "/home/yasar/CalendarGoogle2016-master/chips/build/intermediates/bundles/debug/res/layout/chips_alternate_item.xml"
+    }
+]

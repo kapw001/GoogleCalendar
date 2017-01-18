@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/yasar/CalendarGoogle2016-master/chips/build/intermediates/res/merged/androidTest/debug/drawable/list_item_font_secondary.xml",
+        "source": "/home/yasar/CalendarGoogle2016-master/chips/build/intermediates/bundles/debug/res/drawable/list_item_font_secondary.xml"
+    },
+    {
+        "merged": "/home/yasar/CalendarGoogle2016-master/chips/build/intermediates/res/merged/androidTest/debug/drawable/list_item_font_primary.xml",
+        "source": "/home/yasar/CalendarGoogle2016-master/chips/build/intermediates/bundles/debug/res/drawable/list_item_font_primary.xml"
+    },
+    {
+        "merged": "/home/yasar/CalendarGoogle2016-master/chips/build/intermediates/res/merged/androidTest/debug/drawable/bg_separator_inset.xml",
+        "source": "/home/yasar/CalendarGoogle2016-master/chips/build/intermediates/bundles/debug/res/drawable/bg_separator_inset.xml"
+    }
+]
